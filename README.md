@@ -1,6 +1,6 @@
 # CommonAppColleges
 
-![repository-open-graph-template](.\icon\repository-open-graph-template.png)
+![.\icon\repository-open-graph-template.png](https://i.postimg.cc/L8CysVTG/repository-open-graph-template.png)
 
 ```
 1) https://apply.commonapp.org/requirements?myColleges=true
